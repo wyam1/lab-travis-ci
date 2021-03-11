@@ -1,5 +1,6 @@
 # nyu-travis-ci
 
+[![codecov](https://codecov.io/gh/wyam1/lab-travis-ci/branch/master/graph/badge.svg?token=PKRN1SIEX2)](https://codecov.io/gh/wyam1/lab-travis-ci)
 [![Build Status](https://travis-ci.com/wyam1/lab-travis-ci.svg?branch=master)](https://travis-ci.com/wyam1/lab-travis-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
